@@ -5,18 +5,39 @@ html{
 
 .eu{
     border-radius: 80px;
-    width:400px;
+    width:350px;
     max-width: 30%;
+    
+}
+
+.be:hover{
+    opacity: 50%;
 }
 
 .trybe{
     width:100%;
     height: 20%;
     padding-left: 0px !important;
+    margin-bottom: 0px;
     display: block;
-
+    position: absolute;
 }
 
 h1{
     text-align: center;
+    padding: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.texto{
+    padding-bottom: 100px;
+    margin-left: 5px;
+    font-size: 18px;
+    line-break: auto;
+    
+}
+
+.meio{
+    display: inline-block;
 }
